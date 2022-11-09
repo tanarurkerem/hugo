@@ -9,7 +9,7 @@ on:
         default: 'new.md'
 
 jobs:
-  deploy:
+  new_page:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
@@ -23,5 +23,8 @@ jobs:
           hugo-version: 'latest'
           # extended: true
 
-      - name: create
+      - name: Create
         run: hugo new ${{ inputs.filename }}
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
