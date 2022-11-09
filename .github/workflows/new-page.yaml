@@ -1,4 +1,5 @@
 name: NewPage
+run-name: Create ${{ inputs.filename }}
 
 on:
   workflow_dispatch:
