@@ -22,7 +22,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify -b http://${GITHUB_REPOSITORY/\//.github.io\/}/
 
       - name: Dump GitHub context
         id: github_context_step
