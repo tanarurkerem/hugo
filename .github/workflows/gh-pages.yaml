@@ -25,7 +25,7 @@ jobs:
         run: hugo --minify
 
       - name: Info
-        run: ls -lhaR public
+        run: env
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
