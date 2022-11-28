@@ -1,4 +1,4 @@
-name: NewPage
+name: New Page
 run-name: Create ${{ inputs.filename }}
 
 on:
