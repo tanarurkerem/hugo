@@ -11,7 +11,7 @@ draft: false
 
 felsoroás következik:
 
-* első elem
+* [első elem](/kapcsolat)
 * második elem
 * haramadik elem
 
