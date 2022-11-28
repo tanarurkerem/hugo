@@ -1,4 +1,4 @@
-name: NewPage
+name: New Post
 run-name: Create ${{ inputs.filename }}
 
 on:
@@ -25,7 +25,7 @@ jobs:
           # extended: true
 
       - name: Create
-        run: hugo new -k page ${{ inputs.filename }}
+        run: hugo new posts/${{ inputs.filename }}
 
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v4
