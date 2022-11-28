@@ -6,3 +6,5 @@ draft: false
 ---
 
 Ezek a kapcsolati adataink
+
+![Egy cuki cica](cat-gd6b431dad_1920.jpg)
