@@ -9,7 +9,7 @@ draft: false
 
 ## Ez egy alcím
 
-felsoroás következik:
+Felsoroás következik:
 
 * [első elem](/kapcsolat)
 * második elem
