@@ -1,20 +1,22 @@
 ---
-title: "Kapcsolat"
+title: "Markdown röviden"
 menu: "main"
-date: 2022-11-28T09:19:26Z
 draft: false
 ---
 
 # Ez egy cím
 
+[Link a főoldalra.](/)
+
+Itt pedig egy *dőlt* és egy **félkövér** szó.
+
 ## Ez egy alcím
 
-felsoroás következik:
+Felsorolás:
 
-* [első elem](/kapcsolat)
+* első elem
 * második elem
 * haramadik elem
-
 
 Ezek a kapcsolati adataink
 
