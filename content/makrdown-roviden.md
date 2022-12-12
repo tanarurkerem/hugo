@@ -8,7 +8,7 @@ draft: false
 
 [Link a főoldalra.](/)
 
-Itt pedig egy *dőlt* és egy **félkövér** szó.
+Itt pedig egy-egy *dőlt* és **félkövér** szó.
 
 ## Ez egy alcím
 
@@ -20,4 +20,4 @@ Felsorolás:
 
 Ezek a kapcsolati adataink
 
-![Egy cuki cica](/cat-gd6b431dad_1920.jpg)
+![Egy cuki cica](/kisbalaton.jpg)
