@@ -1,2 +1,2 @@
-# Hugo minta
+# Hugo minta oldal
 
