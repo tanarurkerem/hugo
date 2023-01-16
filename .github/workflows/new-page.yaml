@@ -9,6 +9,8 @@ on:
         required: true
         default: 'new.md'
 
+permissions: write-all
+
 jobs:
   new_page:
     runs-on: ubuntu-22.04
